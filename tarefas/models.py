@@ -1,5 +1,4 @@
-# Create your models here.
-bom dia
+# Create your models here
 from django.db import models
 
 class Tarefa(models.Model):
@@ -8,4 +7,4 @@ class Tarefa(models.Model):
 
     def __str__(self):
         return self.titulo
-sei
+
