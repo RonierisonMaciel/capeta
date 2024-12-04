@@ -1,5 +1,5 @@
 # Create your models here.
-
+bom dia
 from django.db import models
 
 class Tarefa(models.Model):
